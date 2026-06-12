@@ -19,10 +19,6 @@ to provide chatbot functionalities. The app is designed to offer a seamless and 
 
 https://github.com/somenath203/Next-Gemini-ChatApp/assets/81456073/9253c599-a13e-4006-a59a-d9de8631cffc
 
-## Live Preview
-
-Click here to open the application: https://next-gemini-chat-app.vercel.app/
-
 ## Disclaimer
 
 The creator of this application is not responsible for any type of content produced by the chatbot. Users are advised to use the chatbot responsibly and be aware of the potential for generating unintended or 
